@@ -40,3 +40,6 @@ The objective of this project is to determine whether statistically significant 
 - Data Visualization
 - Business Analytics
 
+<img width="561" height="426" alt="image" src="https://github.com/user-attachments/assets/9b9fabe2-0a86-4fb1-94cd-561f4e75c1b4" />
+<img width="681" height="465" alt="image" src="https://github.com/user-attachments/assets/95bf78f4-d159-4242-92cd-0c643a4c4f98" />
+
